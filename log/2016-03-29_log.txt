@@ -1,0 +1,2 @@
+::1
+<2016-03-29 19:41:35>User root (ID: 1) has logged out! - IP: ::1

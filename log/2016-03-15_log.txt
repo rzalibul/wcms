@@ -1,0 +1,4 @@
+::1
+<2016-03-15 16:41:52>User root (ID: 1) has logged out! - IP: ::1::1
+<2016-03-15 17:25:46>User root (ID: 1) has logged out! - IP: ::1::1
+<2016-03-15 17:26:04>User adq (ID: 2) has logged out! - IP: ::1::1
